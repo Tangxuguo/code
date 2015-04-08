@@ -5,6 +5,10 @@ Welcome in my book!
 
 This is an exercise:
 
+
+PYTHON
+
+
 ---
 
 Define a variable `x` equal to 10.
@@ -28,7 +32,6 @@ function magicFunc() {
     return 3;
 }
 ```
-
+DDDDDD
 ---
 
-# code
