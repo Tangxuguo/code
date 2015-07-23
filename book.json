@@ -1,8 +1,17 @@
 {
-    "plugins": ["disqus"],
+    "plugins": [
+        "disqus",
+        "katex",
+        "richquotes",
+        "yahei",
+        "exercises"
+    ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "peqiu"
+        },
+        "richquotes": {
+            "todos": true
         }
     }
 }
