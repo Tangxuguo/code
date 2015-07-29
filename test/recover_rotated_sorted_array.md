@@ -1,4 +1,5 @@
 # recover rotated sorted array
+>  [http://www.lintcode.com/en/problem/recover-rotated-sorted-array](http://www.lintcode.com/en/problem/recover-rotated-sorted-array)
 
 三次翻转法，首先翻转前i个数，然后翻转后n-i个数，最后整体再翻转一次
 

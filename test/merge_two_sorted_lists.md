@@ -1,4 +1,5 @@
 # merge two sorted lists
+>  [http://www.lintcode.com/en/problem/merge-two-sorted-lists](http://www.lintcode.com/en/problem/merge-two-sorted-lists)
 
 链表不带头结点,坑,注意指针递归
 

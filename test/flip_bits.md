@@ -1,4 +1,5 @@
 # flip bits
+>  [http://www.lintcode.com/en/problem/flip-bits](http://www.lintcode.com/en/problem/flip-bits)
 
 可以直接逐位统计各个位，也可以异或后统计1的个数
 

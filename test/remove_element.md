@@ -1,4 +1,5 @@
 # remove element
+>  [http://www.lintcode.com/en/problem/remove-element](http://www.lintcode.com/en/problem/remove-element)
 
 用模板
 

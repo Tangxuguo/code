@@ -1,4 +1,5 @@
 # search insert position
+>  [http://www.lintcode.com/en/problem/search-insert-position](http://www.lintcode.com/en/problem/search-insert-position)
 
 
 注意：插入的时候三种情况分类讨论，vector插入用法

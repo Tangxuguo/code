@@ -1,4 +1,5 @@
 # minimum path sum
+>  [http://www.lintcode.com/en/problem/minimum-path-sum](http://www.lintcode.com/en/problem/minimum-path-sum)
 
 动态规划，关键找到边界，以及递推公式
 

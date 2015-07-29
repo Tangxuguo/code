@@ -1,4 +1,5 @@
 # reverse words in a string
+>  [http://www.lintcode.com/en/problem/reverse-words-in-a-string](http://www.lintcode.com/en/problem/reverse-words-in-a-string)
 
 注意如何剔除空格，字符串反转函数reverse，以及如何插入空格
 

@@ -1,4 +1,5 @@
 # coins in a line
+>  [http://www.lintcode.com/en/problem/coins-in-a-line](http://www.lintcode.com/en/problem/coins-in-a-line)
 
 找规律，其实不是3的倍数就可以了，每轮拿的硬币和为3
 

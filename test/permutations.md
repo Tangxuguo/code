@@ -1,4 +1,5 @@
 # permutations
+>  [http://www.lintcode.com/en/problem/permutations](http://www.lintcode.com/en/problem/permutations)
 
 DFS & 回朔法，排列问题
 

@@ -1,4 +1,5 @@
 # valid palindrome
+>  [http://www.lintcode.com/en/problem/valid-palindrome](http://www.lintcode.com/en/problem/valid-palindrome)
 
 用两个指针过滤无关字符，把字符统一转换成小写字符
 

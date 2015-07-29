@@ -1,4 +1,5 @@
 # find the connected component in the undirected graph
+>  [http://www.lintcode.com/en/problem/find-the-connected-component-in-the-undirected-graph](http://www.lintcode.com/en/problem/find-the-connected-component-in-the-undirected-graph)
 
 
 和找小岛个数差不多，也是用DFS的方法，需要记住每个节点是否已经访问过，当全部节点访问完了，跳出

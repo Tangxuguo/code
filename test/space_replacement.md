@@ -1,4 +1,5 @@
 # space replacement
+>  [http://www.lintcode.com/en/problem/space-replacement](http://www.lintcode.com/en/problem/space-replacement)
 
 注意每1个空格增加2个字符，不是3个
 

@@ -1,4 +1,5 @@
 # delete node in the middle of singly linked list
+>  [http://www.lintcode.com/en/problem/delete-node-in-the-middle-of-singly-linked-list](http://www.lintcode.com/en/problem/delete-node-in-the-middle-of-singly-linked-list)
 
 思路是把后面的值移到要删除的节点上就可以了，删除后面的节点，连接，其他不变
 

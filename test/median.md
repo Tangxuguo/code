@@ -1,4 +1,5 @@
 # median
+>  [http://www.lintcode.com/en/problem/median](http://www.lintcode.com/en/problem/median)
 
 比较老土的方法，排序后找
 

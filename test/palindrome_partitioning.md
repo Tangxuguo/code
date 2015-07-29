@@ -1,4 +1,5 @@
 # palindrome partitioning
+>  [http://www.lintcode.com/en/problem/palindrome-partitioning](http://www.lintcode.com/en/problem/palindrome-partitioning)
 
 暴力搜索
 

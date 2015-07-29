@@ -1,4 +1,5 @@
 # reverse linked list
+>  [http://www.lintcode.com/en/problem/reverse-linked-list](http://www.lintcode.com/en/problem/reverse-linked-list)
 
 分别用连个指针记录当前节点的前一个和后一个节点
 

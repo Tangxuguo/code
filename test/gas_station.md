@@ -1,4 +1,5 @@
 # gas station
+>  [http://www.lintcode.com/en/problem/gas-station](http://www.lintcode.com/en/problem/gas-station)
 
 做这道题的关键是要可以总结出来这道题目的属性，注意Note这个地方，其属性主要有两个：
 1 如果总的gas - cost小于零的话，那么没有解返回-1

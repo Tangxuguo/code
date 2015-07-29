@@ -1,4 +1,5 @@
 # remove duplicates from sorted array
+>  [http://www.lintcode.com/en/problem/remove-duplicates-from-sorted-array](http://www.lintcode.com/en/problem/remove-duplicates-from-sorted-array)
 
 
 

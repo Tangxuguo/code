@@ -1,4 +1,5 @@
 # triangle
+>  [http://www.lintcode.com/en/problem/triangle](http://www.lintcode.com/en/problem/triangle)
 
 动态规划，按行扫描，注意边界，第一个和最后一个，注意扫描顺序，从后往前扫，不然取得值是本轮的值，扫完最后一行，求个最小值
 

@@ -1,4 +1,5 @@
 # matrix zigzag traversal
+>  [http://www.lintcode.com/en/problem/matrix-zigzag-traversal](http://www.lintcode.com/en/problem/matrix-zigzag-traversal)
 
 找边界条件：
 

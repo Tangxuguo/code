@@ -1,4 +1,5 @@
 # valid parentheses
+>  [http://www.lintcode.com/en/problem/valid-parentheses](http://www.lintcode.com/en/problem/valid-parentheses)
 
 
 要注意的地方是不能对空栈调用top方法，负载会溢出

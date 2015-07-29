@@ -1,4 +1,5 @@
 # plus one
+>  [http://www.lintcode.com/en/problem/plus-one](http://www.lintcode.com/en/problem/plus-one)
 
 两个边界条件：第一个和最后一个
 

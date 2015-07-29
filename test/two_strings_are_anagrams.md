@@ -1,4 +1,5 @@
-# two strings are anagrams copy
+# two strings are anagrams
+>  [http://www.lintcode.com/en/problem/two-strings-are-anagrams](http://www.lintcode.com/en/problem/two-strings-are-anagrams)
 
 
 先排序，再比较O(nlogn)，比较郁闷的时，说的是颠倒顺序，我还特意把不变顺序的拿出来来的，结果错了

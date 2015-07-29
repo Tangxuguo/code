@@ -1,4 +1,5 @@
 # remove duplicates from sorted list
+>  [http://www.lintcode.com/en/problem/remove-duplicates-from-sorted-list](http://www.lintcode.com/en/problem/remove-duplicates-from-sorted-list)
 
 方法一：双指针，注意释放内存
 

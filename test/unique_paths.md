@@ -1,4 +1,5 @@
 # unique paths
+>  [http://www.lintcode.com/en/problem/unique-paths](http://www.lintcode.com/en/problem/unique-paths)
 
 动态规划，注意边界，边界上只能从一个方向进入
 

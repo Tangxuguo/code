@@ -1,4 +1,5 @@
 # subtree
+>  [http://www.lintcode.com/en/problem/subtree](http://www.lintcode.com/en/problem/subtree)
 
 首先是特殊情况的处理，然后是树的遍历，可以用栈或者递归，对于判断两个树是否相等，用递归的方式，用栈的话需要同时入出栈，比较麻烦
 

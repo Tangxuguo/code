@@ -1,4 +1,5 @@
 # merge sorted array ii
+>  [http://www.lintcode.com/en/problem/merge-sorted-array-ii](http://www.lintcode.com/en/problem/merge-sorted-array-ii)
 
 	class Solution {
 	public:

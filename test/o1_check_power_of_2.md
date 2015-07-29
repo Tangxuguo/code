@@ -1,4 +1,5 @@
 # o1 check power of 2
+>  [http://www.lintcode.com/en/problem/o1-check-power-of-2](http://www.lintcode.com/en/problem/o1-check-power-of-2)
 
 检查1的个数
 注意边界条件

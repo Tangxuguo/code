@@ -1,4 +1,5 @@
 # count and say
+>  [http://www.lintcode.com/en/problem/count-and-say](http://www.lintcode.com/en/problem/count-and-say)
 
 主要包括两个步骤，统计字符串中重复的字符，然后把统计数字转为字符串，最后记得要把最后的计算值加入
 

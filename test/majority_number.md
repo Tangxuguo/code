@@ -1,4 +1,5 @@
 # majority number
+>  [http://www.lintcode.com/en/problem/majority-number](http://www.lintcode.com/en/problem/majority-number)
 
 最简单的直接排序后，取中位数
 

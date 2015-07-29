@@ -1,4 +1,5 @@
 # partition list
+>  [http://www.lintcode.com/en/problem/partition-list](http://www.lintcode.com/en/problem/partition-list)
 
 
 先创建两个链表，分别存比x小的链表和比x大的链表，最后吧两个链表链接起来, 返回的时候记得删除头结点，避免内存泄露

@@ -1,4 +1,5 @@
 # insert interval
+>  [http://www.lintcode.com/en/problem/insert-interval](http://www.lintcode.com/en/problem/insert-interval)
 
 
 以原来的区间做迭代，应该可以用二分查找

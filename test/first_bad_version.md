@@ -1,4 +1,5 @@
 # first bad version
+>  [http://www.lintcode.com/en/problem/first-bad-version](http://www.lintcode.com/en/problem/first-bad-version)
 
 注意：题真的很简单
 

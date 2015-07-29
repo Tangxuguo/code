@@ -1,4 +1,5 @@
 # insert node in a binary search tree
+>  [http://www.lintcode.com/en/problem/insert-node-in-a-binary-search-tree](http://www.lintcode.com/en/problem/insert-node-in-a-binary-search-tree)
 
 通过
 

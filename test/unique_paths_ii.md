@@ -1,4 +1,5 @@
 # unique paths ii
+>  [http://www.lintcode.com/en/problem/unique-paths-ii](http://www.lintcode.com/en/problem/unique-paths-ii)
 
 
 首先初始化边界条件，入口，及左边第一列，上边第一行

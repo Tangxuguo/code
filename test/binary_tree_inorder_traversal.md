@@ -1,4 +1,5 @@
 # binary tree inorder traversal
+>  [http://www.lintcode.com/en/problem/binary-tree-inorder-traversal](http://www.lintcode.com/en/problem/binary-tree-inorder-traversal)
 
 仔细阅读参考资料：
 

@@ -1,4 +1,5 @@
 # maximum subarray
+>  [http://www.lintcode.com/en/problem/maximum-subarray](http://www.lintcode.com/en/problem/maximum-subarray)
 
 动态规划，和最小数组和一样
 

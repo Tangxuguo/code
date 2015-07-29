@@ -1,4 +1,5 @@
 # search a 2d matrix
+>  [http://www.lintcode.com/en/problem/search-a-2d-matrix](http://www.lintcode.com/en/problem/search-a-2d-matrix)
 
 	class Solution {
 	public:

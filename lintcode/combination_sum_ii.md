@@ -1,5 +1,4 @@
 # combination sum ii
->  [http://www.lintcode.com/en/problem/combination-sum-ii](http://www.lintcode.com/en/problem/combination-sum-ii)
 
 DFS和回朔法
 

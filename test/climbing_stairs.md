@@ -1,4 +1,5 @@
 # climbing stairs
+>  [http://www.lintcode.com/en/problem/climbing-stairs](http://www.lintcode.com/en/problem/climbing-stairs)
 
 状态转移方程，以及注意初始值
 

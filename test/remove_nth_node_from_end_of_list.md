@@ -1,4 +1,5 @@
 # remove nth node from end of list
+>  [http://www.lintcode.com/en/problem/remove-nth-node-from-end-of-list](http://www.lintcode.com/en/problem/remove-nth-node-from-end-of-list)
 
 题目条件是n不大于length
 

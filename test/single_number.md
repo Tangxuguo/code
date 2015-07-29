@@ -1,4 +1,5 @@
 # single number
+>  [http://www.lintcode.com/en/problem/single-number](http://www.lintcode.com/en/problem/single-number)
 
 直接所有遍历一遍
 

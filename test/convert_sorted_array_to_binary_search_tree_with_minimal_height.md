@@ -1,4 +1,5 @@
 # convert sorted array to binary search tree with minimal height
+>  [http://www.lintcode.com/en/problem/convert-sorted-array-to-binary-search-tree-with-minimal-height](http://www.lintcode.com/en/problem/convert-sorted-array-to-binary-search-tree-with-minimal-height)
 
 
 

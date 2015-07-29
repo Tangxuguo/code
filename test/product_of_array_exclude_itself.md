@@ -1,4 +1,5 @@
 # product of array exclude itself
+>  [http://www.lintcode.com/en/problem/product-of-array-exclude-itself](http://www.lintcode.com/en/problem/product-of-array-exclude-itself)
 
 暴力解法
 

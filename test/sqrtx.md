@@ -1,4 +1,5 @@
-# sqrt x
+# sqrtx
+>  [http://www.lintcode.com/en/problem/sqrtx](http://www.lintcode.com/en/problem/sqrtx)
 
 二分法要注意写法
 

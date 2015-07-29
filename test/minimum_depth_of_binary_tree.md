@@ -1,4 +1,5 @@
 # minimum depth of binary tree
+>  [http://www.lintcode.com/en/problem/minimum-depth-of-binary-tree](http://www.lintcode.com/en/problem/minimum-depth-of-binary-tree)
 
 和找最大深度类似，不过要注意条件，由于是叶子节点，直接用min找会找到非叶子节点
 1，树为空，则为0。 2，根节点如果只存在左子树或者只存在右子树，则返回值应为左子树或者右子树的（最小深度+1）。 3，如果根节点的左子树和右子树都存在，则返回值为（左右子树的最小深度的较小值+1）。

@@ -1,4 +1,5 @@
 # find peak element
+>  [http://www.lintcode.com/en/problem/find-peak-element](http://www.lintcode.com/en/problem/find-peak-element)
 
 注意：解法一，直接顺序检测，简单粗暴，但是耗时较长，没有注意
 

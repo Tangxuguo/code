@@ -1,4 +1,5 @@
 # median of two sorted arrays
+>  [http://www.lintcode.com/en/problem/median-of-two-sorted-arrays](http://www.lintcode.com/en/problem/median-of-two-sorted-arrays)
 
 		double findKth(vector<int> A, int A_start, vector <int> B, int B_start, int k) {
 	    // A_start come to end ,so find kth in B

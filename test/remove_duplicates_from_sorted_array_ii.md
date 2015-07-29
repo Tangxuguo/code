@@ -1,4 +1,5 @@
 # remove duplicates from sorted array ii
+>  [http://www.lintcode.com/en/problem/remove-duplicates-from-sorted-array-ii](http://www.lintcode.com/en/problem/remove-duplicates-from-sorted-array-ii)
 
 	class Solution {
 	public:

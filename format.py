@@ -1,6 +1,6 @@
 import os, sys
-folder = "lintcode"
 
+folder = "lintcode"
 fp = open("test.txt",'w')
 for folder, subfolders, files in os.walk(folder):
         for file in [file for file in files if 'md' in file]:
@@ -19,10 +19,13 @@ for folder, subfolders, files in os.walk(folder):
 
             lines = lines[1:]
             copyfp.write("# "+title+'\n')
+            url = "http://www.lintcode.com/en/problem/"+title.replace(' ','-')
+            print url
+            copyfp.write("> i am comment\n")
             print copyName
             #print lines[1]
-            if lines[1] != "hehe\n":
-                copyfp.write("\n")
+            #if lines[1] != "\n":
+            #    copyfp.write("\n")
             for i in range(len(lines)):
                 copyfp.write(lines[i])
 

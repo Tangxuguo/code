@@ -1,4 +1,5 @@
 # rotate string
+>  [http://www.lintcode.com/en/problem/rotate-string](http://www.lintcode.com/en/problem/rotate-string)
 
 采用三步反转法。
 

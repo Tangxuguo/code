@@ -1,4 +1,5 @@
 # find minimum in rotated sorted array
+>  [http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array](http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array)
 
 
 解法一：循环遍历,复杂度 O(n)

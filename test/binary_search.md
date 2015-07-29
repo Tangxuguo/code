@@ -1,4 +1,5 @@
 # binary search
+>  [http://www.lintcode.com/en/problem/binary-search](http://www.lintcode.com/en/problem/binary-search)
 
 
 Keypoints:1. start + 1 < end2. start + (end - start) / 2 3. A[mid] ==, <, >4. A[start] A[end] ? target

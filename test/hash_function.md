@@ -1,4 +1,5 @@
 # hash function
+>  [http://www.lintcode.com/en/problem/hash-function](http://www.lintcode.com/en/problem/hash-function)
 
 
 

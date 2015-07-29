@@ -1,4 +1,5 @@
 # unique characters
+>  [http://www.lintcode.com/en/problem/unique-characters](http://www.lintcode.com/en/problem/unique-characters)
 
 直接所有遍历一遍
 

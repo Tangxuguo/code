@@ -1,4 +1,5 @@
 # nth to last node in list
+>  [http://www.lintcode.com/en/problem/nth-to-last-node-in-list](http://www.lintcode.com/en/problem/nth-to-last-node-in-list)
 
 方法一：先找出长度，然后计算,注意head是第一个节点，所以length从1开始计数
 

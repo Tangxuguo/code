@@ -1,4 +1,5 @@
 # length of last word
+>  [http://www.lintcode.com/en/problem/length-of-last-word](http://www.lintcode.com/en/problem/length-of-last-word)
 
 从后面数，去掉空格
 

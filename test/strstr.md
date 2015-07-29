@@ -1,4 +1,5 @@
 # strstr
+>  [http://www.lintcode.com/en/problem/strstr](http://www.lintcode.com/en/problem/strstr)
 
 移位比较
 

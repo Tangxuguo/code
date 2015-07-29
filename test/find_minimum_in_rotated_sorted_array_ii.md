@@ -1,4 +1,5 @@
 # find minimum in rotated sorted array ii
+>  [http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array-ii](http://www.lintcode.com/en/problem/find-minimum-in-rotated-sorted-array-ii)
 
 
 

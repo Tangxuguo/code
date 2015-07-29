@@ -1,4 +1,5 @@
 # maximum depth of binary tree
+>  [http://www.lintcode.com/en/problem/maximum-depth-of-binary-tree](http://www.lintcode.com/en/problem/maximum-depth-of-binary-tree)
 
 分治
 

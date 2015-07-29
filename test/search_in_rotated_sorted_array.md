@@ -1,9 +1,10 @@
 # search in rotated sorted array
+>  [http://www.lintcode.com/en/problem/search-in-rotated-sorted-array](http://www.lintcode.com/en/problem/search-in-rotated-sorted-array)
 
 先给出一个O(n)的解法
 
 	class Solution {
-	    /** 
+	    /**
 	     * param A : an integer ratated sorted array
 	     * param target :  an integer to be searched
 	     * return : an integer
@@ -24,7 +25,7 @@
 第二种解法：二分法，分情况讨论
 
 	class Solution {
-	    /** 
+	    /**
 	     * param A : an integer ratated sorted array
 	     * param target :  an integer to be searched
 	     * return : an integer
@@ -52,12 +53,12 @@
 	            else if (A[start] > A[mid]) {
 	                if (A[mid] <= target && target <= A[end]) {
 	                    start = mid;
-	                }            
+	                }
 	                else { end = mid; }
 	            }
-	                
+
 	        }
-	        
+
 	        if (A[start] == target) {
 	            return start;
 	        }

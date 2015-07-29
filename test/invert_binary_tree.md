@@ -1,4 +1,5 @@
 # invert binary tree
+>  [http://www.lintcode.com/en/problem/invert-binary-tree](http://www.lintcode.com/en/problem/invert-binary-tree)
 
 
 递归方法

@@ -1,4 +1,5 @@
 # binary tree preorder traversal
+>  [http://www.lintcode.com/en/problem/binary-tree-preorder-traversal](http://www.lintcode.com/en/problem/binary-tree-preorder-traversal)
 
 
 注意递归退出条件

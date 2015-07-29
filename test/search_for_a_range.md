@@ -1,4 +1,5 @@
 # search for a range
+>  [http://www.lintcode.com/en/problem/search-for-a-range](http://www.lintcode.com/en/problem/search-for-a-range)
 
 注意和binarysearch一样的做法，找两次边界
 

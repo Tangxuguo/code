@@ -1,4 +1,5 @@
 # number of islands
+>  [http://www.lintcode.com/en/problem/number-of-islands](http://www.lintcode.com/en/problem/number-of-islands)
 
 种子填充算法，本质是DFS，需要对每个位置加一个访问标志位，注意是4方向连通
 

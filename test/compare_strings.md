@@ -1,4 +1,5 @@
 # compare strings
+>  [http://www.lintcode.com/en/problem/compare-strings](http://www.lintcode.com/en/problem/compare-strings)
 
 要注意的时题目的意思是每个字符都要有，考虑个数
 

@@ -1,4 +1,5 @@
 # valid sudoku
+>  [http://www.lintcode.com/en/problem/valid-sudoku](http://www.lintcode.com/en/problem/valid-sudoku)
 
 题目没有要求必须要有解，只要当前的各个block没有重复的就可以了，感觉题目有点乱，话说如果要有解又该怎么办呢？
 

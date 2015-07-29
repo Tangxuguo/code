@@ -1,4 +1,5 @@
 # longest increasing continuous subsequence
+>  [http://www.lintcode.com/en/problem/longest-increasing-continuous-subsequence](http://www.lintcode.com/en/problem/longest-increasing-continuous-subsequence)
 
 定义一个计算器，分别统计上升和下降序列
 
