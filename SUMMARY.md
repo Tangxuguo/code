@@ -84,4 +84,5 @@
    * [valid sudoku](lintcode/valid_sudoku.md)
    * [a b problem](lintcode/a_b_problem.md)
    * [maximal square](lintcode/maximal_square.md)
+   * [permutation index](lintcode/permutation_index.md)
 
