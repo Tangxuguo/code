@@ -85,4 +85,6 @@
    * [a b problem](lintcode/a_b_problem.md)
    * [maximal square](lintcode/maximal_square.md)
    * [permutation index](lintcode/permutation_index.md)
+   * [k sum ii](lintcode/k_sum_ii.md)
+   * [n queens](lintcode/n_queens.md)
 
