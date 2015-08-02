@@ -87,4 +87,7 @@
    * [permutation index](lintcode/permutation_index.md)
    * [k sum ii](lintcode/k_sum_ii.md)
    * [n queens](lintcode/n_queens.md)
+   * [previous permuation](lintcode/previous_permuation.md)
+   * [next permutation](lintcode/next_permutation.md)
+   * [next permutation ii](lintcode/next_permutation_ii.md)
 

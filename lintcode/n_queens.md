@@ -43,16 +43,17 @@
             }
         }
         bool validPos(vector<int> &col, int irow, int icol) {
-            for(int i=0; i<col.size(); i++) {
-                if(icol==col[i] || abs(irow-i)==abs(icol-col[i]))
+            for(int i=0; i<col.size(); i++) {//对棋盘进行扫描
+                if(icol==col[i] || abs(irow-i)==abs(icol-col[i]))//判断列冲突与斜线上的冲突
                     return false;
             }
             return true;
         }
     };
 
-
-
+icol==col[i]
+第i行对应的列是否与现在要放的列一样，如果一样是不合法的
+col其实类似一个visited
 
 
 http://www.cnblogs.com/TenosDoIt/p/3801621.html
