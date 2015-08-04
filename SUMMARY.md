@@ -56,7 +56,6 @@
    * [remove duplicates from sorted list](lintcode/remove_duplicates_from_sorted_list.md)
    * [remove element](lintcode/remove_element.md)
    * [remove nth node from end of list](lintcode/remove_nth_node_from_end_of_list.md)
-   * [restore ip addresses](lintcode/restore_ip_addresses.md)
    * [reverse integer](lintcode/reverse_integer.md)
    * [reverse linked list](lintcode/reverse_linked_list.md)
    * [reverse words in a string](lintcode/reverse_words_in_a_string.md)
@@ -90,4 +89,7 @@
    * [previous permuation](lintcode/previous_permuation.md)
    * [next permutation](lintcode/next_permutation.md)
    * [next permutation ii](lintcode/next_permutation_ii.md)
+   * [divide two integers](lintcode/divide_two_integers.md)
+   * [construct binary tree from inorder and postorder traversal](lintcode/construct_binary_tree_from_inorder_and_postorder_traversal.md)
+   * [best time to buy and sell stock](lintcode/best_time_to_buy_and_sell_stock.md)
 
