@@ -97,4 +97,7 @@
    * [binary tree level order traversal](lintcode/binary_tree_level_order_traversal.md)
    * [binary tree level order traversal ii](lintcode/binary_tree_level_order_traversal_ii.md)
    * [binary tree zigzag level order traversal](lintcode/binary_tree_zigzag_level_order_traversal.md)
+   * [n queens ii](lintcode/n_queens_ii.md)
+   * [distinct subsequences](lintcode/distinct_subsequences.md)
+   * [unique binary search trees](lintcode/unique_binary_search_trees.md)
 
