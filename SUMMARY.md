@@ -100,4 +100,5 @@
    * [n queens ii](lintcode/n_queens_ii.md)
    * [distinct subsequences](lintcode/distinct_subsequences.md)
    * [unique binary search trees](lintcode/unique_binary_search_trees.md)
+   * [3 sum](lintcode/3_sum.md)
 
