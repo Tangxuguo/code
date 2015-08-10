@@ -38,8 +38,8 @@ brute force时间复杂度为O(n^3), 对每三个数进行比较。这道题和T
                     res.push_back(sol);
                     left++;
                     right--;
-                    while (left < right && nums[left] == nums[left-1]) left++;
-                    while (left < right && nums[right+1] == nums[right]) right--;
+                    while (nums[left] == nums[left-1]) left++;
+                    while (nums[right+1] == nums[right]) right--;
                 } else if (nums[left] + nums[right] > target) {
                     right--;
                 } else {

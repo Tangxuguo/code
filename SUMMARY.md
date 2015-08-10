@@ -101,4 +101,6 @@
    * [distinct subsequences](lintcode/distinct_subsequences.md)
    * [unique binary search trees](lintcode/unique_binary_search_trees.md)
    * [3 sum](lintcode/3_sum.md)
+   * [3 sum closest](lintcode/3_sum_closest.md)
+   * [first missing positive](lintcode/first_missing_positive.md)
 
